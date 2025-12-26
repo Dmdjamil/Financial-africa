@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+altair
+streamlit-option-menu
+scikit-learn
+joblib
+ydata-profiling
+streamlit-pandas-profiling
+Pillow
