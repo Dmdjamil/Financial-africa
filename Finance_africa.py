@@ -29,7 +29,6 @@ import plotly.figure_factory as ff
 from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 import plotly.express as px
 import warnings
-import streamlit_jupyter 
 import plotly.express as px
 import streamlit_extras
 from PIL import Image
