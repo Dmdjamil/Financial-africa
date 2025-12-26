@@ -11,3 +11,4 @@ joblib
 ydata-profiling
 streamlit-pandas-profiling
 Pillow
+setuptools
