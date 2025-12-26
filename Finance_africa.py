@@ -30,7 +30,6 @@ from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 import plotly.express as px
 import warnings
 import plotly.express as px
-import streamlit_extras
 from PIL import Image
 from sklearn.linear_model import LinearRegression
 from sklearn.linear_model import LogisticRegression
