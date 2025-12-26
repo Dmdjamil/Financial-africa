@@ -39,6 +39,7 @@ from sklearn.metrics import mean_squared_error
 from sklearn.preprocessing import LabelEncoder
 from sklearn import metrics
 from ydata_profiling import ProfileReport
+from streamlit_pandas_profiling import st_profile_report
 from sklearn.preprocessing import LabelEncoder
 from pandas_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
